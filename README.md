@@ -1,6 +1,6 @@
 # AWS_workshop
 
-This repositoriy contains all AWS codes and projects
+This repository contains all AWS codes and projects
 
 - [How to give IAM users a secured passwordless Key pair authentication for accessing linux EC2 instances](https://github.com/sanjukuruvilla/IAM-EC2-Keypair-Access)
 - [How to copy a File from Public to Private linux Instance](https://github.com/sanjukuruvilla/Copying-a-File-from-Public-to-Private-Instance-in-AWS-EC2.git)
